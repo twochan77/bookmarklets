@@ -1,0 +1,1 @@
+javascript:alert("Hello%20world!");
